@@ -19,6 +19,7 @@ const questions = [
     answers: ["onSubmit", "onClick", "onChange", "onForm"],
     correctIndex: 0,
   },
+//
   {
     id: 4,
     prompt: "______ is a tool that transpiles JSX into valid JavaScript.",
